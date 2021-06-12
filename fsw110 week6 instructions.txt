@@ -1,0 +1,17 @@
+Project Requirements
+The website must contain the following:
+A list displaying each item by type. Each list item must:
+Have item image.
+Have item name.
+Show price of that item.
+Have an input box to enter the total bought of that type.
+A total price at the bottom that adds sums the total cost of items purchased.
+Must use JS for this math === no hard coded values!
+A footer showing:
+The shop’s email address.
+The shop’s company website url.
+The shop’s physical address.
+A large title at the top of the page depicting the name of the shop.
+The page must be responsive, meaning it looks great when shrunk down to the screen size 
+of a smartphone. This will be the standard for all assignments moving forward in the program 
+and all real life web applications.

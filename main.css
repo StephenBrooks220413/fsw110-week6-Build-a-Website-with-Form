@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#main {
+  background-image: linear-gradient(176deg, #7a7979 70%, #ffffff 70%);
+  height: auto;
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.intro {
+  margin-top: 70px;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 20px;
+  /* display: inline; */
+  justify-content: center;
+  word-spacing: 25px;
+  margin-right: 11px;
+}
+
+.space {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.icon-h {
+  font-size: 2.7em;
+  color: grey;
+}
+
+.icon-s {
+  font-size: 2.7em;
+  color: lightblue;
+}
+
+.icon-rh {
+  font-size: 2.7em;
+  color: red;
+}
+
+.space-footer {
+  margin-top: 140px;
+}
